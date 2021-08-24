@@ -29,7 +29,6 @@ class: center, middle
 
 ## Coordinación monitores/as
 
-### Abril 2021
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = TRUE)
@@ -148,7 +147,7 @@ background-position: 100% 0%
 
 --
 
-- Si las/os participantes tienen.pur[dudas que no apuntan directamente al contenido que se está revisando], recomendamos ofrezcan unos minutos para resolverlas al final de la clase, o bien .pur[les consulten durante la semana].
+- Si las/os participantes tienen .pur[dudas que no apuntan directamente al contenido que se está revisando], recomendamos ofrezcan unos minutos para resolverlas al final de la clase, o bien .pur[les consulten durante la semana].
 
 ---
 
@@ -169,7 +168,7 @@ background-position: 100% 0%
 
 --
 
-- El plazo para la entrega de estos desafíos es el **día antes de la siguente sesión de capacitación, a las 12:00 hrs**. En ese momento se subirá a nuestro canal en Teams la solución a los ejercicios. 
+- El plazo para la entrega de estos desafíos es el **día antes de la siguente sesión de capacitación, a las 12:00 hrs**. En ese momento deberán subir a al canal de Teams de vuestro grupo la solución a los ejercicios.
 
 --
 
@@ -205,6 +204,10 @@ background-position: 100% 0%
 
 - Se permitirá justificar inasistencias por uso de permiso administrativo, feriado legal o por motivos laborales, **lo cual deberá ser informado por la jefatura del subdepartamento** al que la/el participante pertenece.
 
+--
+
+- Al finalizar la actividad, cuando se envíe el listado de asistencia junto con la evaluación final, debe considerarse como **presente** a quien tenga inasistencia **justificada**. Internamente, lo ideal es mantenerlo como inasistencia justificada.
+
 ---
 
 background-image: url("imagenes/fondo2.PNG")
@@ -235,27 +238,43 @@ background-position: 100% 0%
 
 - **La tarea final se entrega la penúltima clase** y tiene como plazo hasta una semana después de la última sesión.
 
+--
+
+- (*) Lo anterior implica que solo las clases 1:4 tienen tarea, pues en la 5 se presenta la tarea final.
+
 ---
 
 background-image: url("imagenes/fondo2.PNG")
 background-size: contain;
 background-position: 100% 0%
 
-# Experiencias piloto de Capacitación en R de SSCC
+# Experiencias previas Capacitación en R
 
 </br>
 </br>
 --
 
-- .medium-par[Subdepto de Demografía y Estadísticas Vitales]
+- .medium-par[Subdepto de Demografía y Estadísticas Vitales] (13 personas)
 
 --
 
-- .medium-par[Subdepto de Calidad Estadística]
+- .medium-par[Subdepto de Calidad Estadística] (11 personas)
 
 --
 
-- .medium-par[Depto de Gestión Estratégica]
+- .medium-par[Depto de Gestión Estratégica] (16 personas)
+
+--
+
+- .medium-par[Capacitación R INE: Ciclo I] (82 internas / 15 externas)
+
+--
+
+- .medium-par[Total: **137 personas capacitadas**]
+
+--
+
+- .medium-par[Hay **56 personas** consideradas para el segundo ciclo]
 
 ---
 
@@ -267,6 +286,10 @@ background-position: 100% 0%
 
 </br>
 </br>
+--
+
+.medium-par[Para quienes se integran:]
+
 --
 
 - .medium-par[¿En qué unidad se desempeñan? ¿Qué hacen?]
@@ -294,15 +317,7 @@ background-position: 100% 0%
 
 --
 
-- Se priorizará que las personas **capaciten a sus equipos o personas de areas similares**.
-
---
-
 - Se capacitará en **duplas**.
-
---
-
-- Si la convocatoria es alta se hará un **segundo ciclo**.
 
 --
 
@@ -310,11 +325,11 @@ background-position: 100% 0%
 
 --
 
-- **Iniciativa de la directora:** convocar a estudiantes universitarios y generar un grupo para capacitar.
+- Esta vez, por solicitud del grupo de profesoras/es, se asignarán personas a los horarios dispuestos por uds.
 
 --
 
-- **Los grupos serán asignados** por SSCC - SDA cuando acabe la convocatoria.
+- Informar duplas.
 
 ---
 
@@ -364,19 +379,23 @@ background-position: 100% 0%
 
 --
 
-- Completar **encuesta individual de monitores en forms**
+- Completar **encuesta individual de monitores en forms** (solo nuevos)
 
 --
 
-- Completar **Excel online con observaciones y consultas de monitores/as**
+- De ser necesario, es posible generar una sesión para resolver dudas y reforzar contenidos con quienes lo deseen, especialmente quienes se incorporan como profesores/as.
 
 --
 
-- Pueden **inscribir comentarios hasta el 16 de abril**
+- **Cada dupla:** Definir horario de disponibilidad en conjunto (cuidaremos que sean distintos horarios).
 
 --
 
-- A partir de las consultas se preparará una sesión en la **semana del 19 al 23 de abril** para **resolución de dudas y reforzamiento de contenidos**.
+- Luego nosotros les asignaremos a los/as alumnos/as.
+
+--
+
+- Es posible que haya un proceso de reasignación de personas a grupos: lo coordinamos en conjunto.
 
 ---
 
@@ -498,7 +517,6 @@ class: center, middle
 
 ## Coordinación monitores/as - Parte II 
 
-### Abril 2021
 
 ---
 
@@ -511,19 +529,15 @@ background-position: 100% 0%
 
 --
 
-- Capacitaciones comienzan la primera semana de mayo.
+- Capacitaciones comienzan la primera semana de septiembre.
 
 --
 
-- Se está solucionando durante la tarde los problemas de grabación en Teams.
+- ¿Quien puede y quien no puede grabar en Teams?
 
 --
 
-- ¿Quien puede y quien no puede grabar?
-
---
-
-- Una vez que tengan habilitado el permiso (durante la tarde) deben **cerrar sesión y volver a conectarse** para que la opción quede operativa.
+- Una vez que tengan habilitado el permiso (los que no lo tenían) deben **cerrar sesión y volver a conectarse** para que la opción quede operativa.
 
 --
 
@@ -556,7 +570,7 @@ background-position: 100% 0%
 --
 </br>
 
-- Durante la tarde crearemos un Team y un canal para caga grupo de capacitación
+- A la brevedad crearemos un Team y un canal para caga grupo de capacitación
 
 --
 
@@ -568,7 +582,7 @@ background-position: 100% 0%
 
 --
 
-- Además se generará un **canal privado** de monitores/as
+- Además tendrán acceso a un **canal privado** de monitores/as
 
 --
 
@@ -592,10 +606,6 @@ background-position: 100% 0%
 
 --
 </br>
-
-- En este link pueden tener a mano el compilado de sus dudas y observaciones: [link](https://inechile-my.sharepoint.com/:x:/g/personal/ifaglonij_ine_gob_cl/EYF0jpffkxFIl5s4RD46zZEBPwapQYRO5tyEc4_Gkr4k2w?e=FaPO7y&CID=6117e9a0-d340-4ab7-bb2a-bd621549aab2)
-
---
 
 - Comentarios generales:
 
@@ -663,4 +673,3 @@ class: center, middle
 
 ## Coordinación monitores/as
 
-### Abril 2021
